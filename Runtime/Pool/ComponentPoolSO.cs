@@ -60,7 +60,7 @@ namespace WizardOptimizations.Runtime.Pool
 #if UNITY_EDITOR
                 DestroyImmediate(PoolRoot.gameObject);
 #else
-				Destroy(_poolRoot.gameObject);
+				Destroy(PoolRoot.gameObject);
 #endif
             }
         }
