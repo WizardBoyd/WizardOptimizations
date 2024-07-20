@@ -1,11 +1,10 @@
 {
-  "name": "com.wizboyd.wizardaddressables",
+  "name": "com.wizboyd.wizardoptimizations",
   "version": "1.0.0",
-  "displayName": "Wizard Addressables",
-  "description": "Custom Addressable managing features",
+  "displayName": "Wizard Optimizations",
+  "description": "Custom package which implements traditional Optimizations",
   "unity": "2022.3",
   "dependencies": {
-    "com.unity.addressables" : "1.21.21"
   },
   "author": {
     "name": "Luis Boyd",
